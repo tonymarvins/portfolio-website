@@ -13,6 +13,15 @@ header {
     border-radius: 10px;
     margin-bottom: 20px;
 }
+/* Hero heading fade-in */
+header h1 {
+    animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
 h1, h2 {
     text-align: center;
 }
