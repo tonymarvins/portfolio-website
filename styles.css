@@ -5,6 +5,14 @@ body {
     color: #222;
     margin: 20px;
 }
+/* Hero section styling */
+header {
+    background-color: #e0f7fa; 
+    padding: 40px 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
 h1, h2 {
     text-align: center;
 }
